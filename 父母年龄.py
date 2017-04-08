@@ -1,0 +1,5 @@
+father = input("你父亲的年龄")
+A = int(father)
+mother = input("你母亲的年龄")
+B = int(mother)
+print("他们总共", A + B ,"岁")
