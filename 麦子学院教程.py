@@ -58,3 +58,8 @@ mixed_tuple[2][1] = 'c'
 print('mixed tuple after: ' + str(mixed_tuple))
 citizen_number = {"Beijing":2171e4, "Shanghai":2415e4, "Chongqing":3017e4}
 print (citizen_number["Shanghai"])
+for ele in citizen_number:
+    print(ele)
+    print(citizen_number[ele])
+for key, element in citizen_number.items():
+    print(key, element)
