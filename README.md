@@ -4,7 +4,7 @@
 
 #1.首先学习的是B站里[【小甲鱼】](http://www.bilibili.com/video/av4050443/?from=search&seid=11344496709142179092)视频教程的一部分
 
-#2.看了[<a byte of python>](https://bop.molun.net/)
+#2.看了[《a byte of python》](https://bop.molun.net/)
 
 #3.[周莫烦的视频教程](https://morvanzhou.github.io/)又看了一部分
 
